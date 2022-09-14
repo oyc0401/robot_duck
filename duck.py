@@ -1,4 +1,4 @@
-from robotLib.cs1robots import *
+from robotLib.cs1robot_ducks import *
 
 
 class Duck(Robot):

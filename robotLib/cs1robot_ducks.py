@@ -1,5 +1,5 @@
 #
-# cs1robots.py
+# cs1robot_ducks.py
 #
 # Environment for steering a robot through a grid world
 # for learning to program in Python
@@ -25,7 +25,7 @@ import threading as _threading
 import io as _io
 import base64 as _base64
 
-from robotLib.robot_ducks_images import _robot_images
+from robotLib.cs1robot_ducks_images import _robot_images
 
 # PIL isn't actually used in cs1robots, but is needed to use
 # cs1graphics properly.  So we make sure it is there, as otherwise
